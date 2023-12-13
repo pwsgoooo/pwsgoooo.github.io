@@ -13,7 +13,7 @@ baseurl: "pwsgoooo.github.io"
 
 # LANDING PAGE
 # username: This will displayed on the landing page as your name.
-username: Neumorphism
+username: pwsgoooo
 # typing_text: This will be typed before 'scroll down for more'.
 # > set this to your job title, e.g. Fullstack Developer
 typing_text: Jekyll Theme
@@ -22,11 +22,11 @@ email: pws_01@naver.com
 # For every social button you want to display, set your username or userid
 # If you do not use one of the following websites, then leave it empty
 # > twitter_username:
-github_username: longpdo
-codepen_username: exampleUser
-dev_username: exampleUser
-linkedin_username: exampleUser
-twitter_username: exampleUser
+github_username: pwsgoooo
+codepen_username: pwsgoooo
+dev_username: pwsgoooo
+linkedin_username: pwsgoooo
+twitter_username: pwsgoooo
 
 # ABOUT ME SECTION
 # show_aboutme_card:
@@ -88,7 +88,7 @@ contact_description: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, se
 # GITHUB-METADATA
 # Set this to your forked repository
 # > e.g. <user>/<user>.github.io
-repository: longpdo/neumorphism
+repository: pwsgoooo/pwsgoooo.github.io
 projects:
   # sortby:
   # > set this to pushed, if you want to sort your github repositories by time.
