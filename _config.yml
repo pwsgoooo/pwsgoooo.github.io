@@ -36,8 +36,7 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: About Me
 # about_me_description: This will be displayed under the title.
-about_me_description: "Data Analysis, Data Preprocessing for analysis or Marketing". That keywords can represent me at present.
-If wont you check my passion about data, can find on <a class="highlight-link" href="https://github.com/pwsgoooo" target="_blank" rel="noreferrer"> Github </a> or <a class="highlight-link" href="https://www.youtube.com/@goowear" target="_blank" rel="noreferrer">YouTube</a>.
+about_me_description: "Data Analysis, Data Preprocessing for analysis or Marketing". That keywords can represent me at present. If wont you check my passion about data, can find on <a class="highlight-link" href="https://github.com/pwsgoooo" target="_blank" rel="noreferrer"> Github </a> or <a class="highlight-link" href="https://www.youtube.com/@goowear" target="_blank" rel="noreferrer">YouTube</a>.
 
 # SKILLS SECTION
 # show_skills_card:
