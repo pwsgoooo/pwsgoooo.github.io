@@ -10,6 +10,7 @@
 #   title-url: https://example.com/
 #   date: Sep 2019 - Present
 #   subtitle: Fullstack Developer
+# subtitle: Software Engineer as Intern
 #   tags:
 #     - tag: React
 #     - tag: Javascript
@@ -17,45 +18,42 @@
 #     - tag: Rails
 #   timeline-side: right
 
-- title: airbnb
-  title-url: https://example.com/
-  date: Sep 2019 - Present
-  subtitle: Fullstack Developer
+- title: Artificial Intelligence Academy
+  title-url: https://gj-aischool.or.kr/
+  date: Jun 2023 - Dec 2023
+  subtitle: AIModelingTrack_VisualIntelligence
   tags:
-    - tag: React
-    - tag: Javascript
-    - tag: Ruby
-    - tag: Rails
+    - tag: Python
+    - tag: VSCode
+    - tag: GoogleColab
+    - tag: JupyterNotebook
   timeline-side: right
 
-- title: Google
-  title-url: https://example.com/
-  date: Mar 2019 - Sep 2019
-  subtitle: Software Engineer as Intern
+- title: SALTLUX
+  title-url: http://www.saltluxinno.com/
+  date: Jul 2022 - Dec 2022
+  subtitle: Data preprocess as Contractor
   tags:
-    - tag: Flutter
-    - tag: Dart
-    - tag: Keycloak
+    - tag: LabellingImage
+    - tag: MappingSkelleton
+    - tag: EditVideo
+    - tag: Photoshop
   timeline-side: right
 
-- title: Super University
-  title-url: https://example.com/
-  date: 2017 - 2019
-  subtitle: M.Sc. Computer Science
+- title: GoodInfoTech
+  title-url: http://www.parasystem.co.kr/
+  date: Oct 2021 - Jun 2022
+  subtitle: AssistantPM
   timeline-side: left
 
-- title: Facebook
-  title-url: https://example.com/
-  date: Sep 2017 - Mar 2019
-  subtitle: Front-End Developer as Intern
-  tags:
-    - tag: React
-    - tag: Node
-    - tag: Javascript
+- title: APTNERS
+  title-url: https://aptners.com/
+  date: Jul 2016 - Feb 2017
+  subtitle: Marketing using keyword data
   timeline-side: right
 
-- title: Super University
-  title-url: https://example.com/
-  date: 2014 - 2017
-  subtitle: B.A. Computer Science
+- title: GJBIENNALE
+  title-url: https://www.gwangjubiennale.org/
+  date: Dec 2015 - Feb 2016
+  subtitle: training as Intern
   timeline-side: left
