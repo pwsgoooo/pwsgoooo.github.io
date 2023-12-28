@@ -36,7 +36,7 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: About Me
 # about_me_description: This will be displayed under the title.
-about_me_description: "Data Analysis, Data Preprocessing for analysis or Marketing". That keywords can represent me. If wont you check my passion about data, can find on <a class="highlight-link" href="https://github.com/pwsgoooo" target="_blank" rel="noreferrer"> Github </a> or <a class="highlight-link" href="https://www.youtube.com/@goowear" target="_blank" rel="noreferrer">YouTube</a>.
+about_me_description: Hello. I'm Woo-seon Park, a job applicant for data analysis."Data analysis, preprocessing for making a good decision and marketing". I can use this keyword to express myself.Additionally, My passion for data can be found on the Youtube <a href="https://www.youtube.com/@goowear"">@goowear</a> and <a href="https://www.miricanvas.com/v/12jfs71">the shared drive</a>.
 
 # SKILLS SECTION
 # show_skills_card:
