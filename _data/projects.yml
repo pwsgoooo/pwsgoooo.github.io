@@ -13,21 +13,28 @@
 #     - tag: AngularJS
 #     - tag: Node
 
-- name: project X
-  descr: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam"
-  demo: https://example.com/
+- name: "Back-end flow" 
+  descr: 'build python-project using fastapi sqlalchemy mysql.etc',
+  coderepo: https://github.com/pwsgoooo/newlip
   tags:
-    - tag: MongoDB
-    - tag: Express
-    - tag: AngularJS
+    - tag: MySQL
+    - tag: sqlalchemy
+    - tag: FastAPI
+    - tag: uvicorn
+
+- name: "Machine-learning for Predict"
+  descr: 'Machine-learning for predicting profit of Startup-company',
+  coderepo: https://github.com/pwsgoooo/ML_predictProfit
+  tags:
+    - tag: JupyterNotebook
+    - tag: DecisionTreeRegressor
+    - tag: seaborn
+    - tag: Pandas
+
+- name: CreateWebsite03_MYPAGE
+  descr: 'Full-stack √(´∀`√) publicing web-browser, build express-server',
+  coderepo: https://github.com/pwsgoooo/CreateWebsite03_MYPAGE
     - tag: Node
-
-- name: project Y
-  descr: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam"
-  demo: https://example.com/
-  tags:
-    - tag: Python
-    - tag: Django
-
-- name: project Z
-  descr: "You can also set a project without demo link and no tags"
+    - tag: express
+    - tag: MySQL
+    - tag: EJS
